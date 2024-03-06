@@ -16,9 +16,9 @@ Welcome to NewsPedia - your one-stop destination for current and engaging news c
 
 Framer Motion is integrated into NewsPedia to provide a dynamic and immersive experience. Here are some ways we’ve utilized it:
 
--**Page Transitions**: Smooth transitions between pages to keep users engaged without disrupting the flow.
--**Animated Filters**: Filters animate into view, providing a responsive and interactive feel.
--**Loading Animations**: Elegant loading animations that indicate content is being fetched without jarring the user.
+- **Page Transitions**: Smooth transitions between pages to keep users engaged without disrupting the flow.
+- **Animated Filters**: Filters animate into view, providing a responsive and interactive feel.
+- **Loading Animations**: Elegant loading animations that indicate content is being fetched without jarring the user.
 
 
 ## Upcoming Features
@@ -42,6 +42,6 @@ Contributions are what make the open-source community such an amazing place to l
 
 ## Contact
 
-**Mail** - azinc28@gmail.com
-**Project Link**: https://github.com/a-ZINC/NewsPedia
+- **Mail** - azinc28@gmail.com
+- **Project Link**: https://github.com/a-ZINC/NewsPedia
 
