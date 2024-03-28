@@ -5,6 +5,7 @@
   "dependencies": {
     "@studio-freight/react-lenis": "^0.0.43",
     "axios": "^1.6.3",
+    "dotenv": "^16.4.5",
     "framer-motion": "^10.18.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -13,6 +14,7 @@
     "react-router-dom": "^6.21.1",
     "react-scripts": "5.0.1",
     "react-sticky-box": "^2.0.5",
+    "swiper": "^11.0.7",
     "web-vitals": "^2.1.4"
   },
   "repository": {
@@ -25,7 +27,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "CI=false react-scripts build",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
@@ -47,6 +49,7 @@
     ]
   },
   "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "tailwindcss": "^3.2.7"
   }
 }

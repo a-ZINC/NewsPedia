@@ -7,8 +7,9 @@ import Generallayout from '../Components/Generallayout'
 const Home = () => {
   return (
           <>
+            
             <Slide></Slide>
-            <Trend/>
+            
             <Homecategory></Homecategory>
             <Generallayout></Generallayout>
           </>

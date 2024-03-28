@@ -27,7 +27,7 @@ const Side = () => {
   },[location.pathname,location.search]);
 
   const {scrollYProgress}=useScroll();
-  let y=useTransform(scrollYProgress,[0.5,1],['0%','85%']);
+  let y=useTransform(scrollYProgress,[0.5,1],['0%','68%']);
   const [screen,setscreen]=useState(window.innerWidth>1024);
   useEffect(()=>{
     function handleresize(e){
